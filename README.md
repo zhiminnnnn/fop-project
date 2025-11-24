@@ -22,4 +22,12 @@ IT UTM Consultancy offers various ICT courses and has recently expanded its serv
   3. Applies a 10% discount for each course where more than 50 people register.
   4. Generates receipt.
 - Function `calcFee()` receives the course code and number of people registering for the course. It will calculate and return the total fees.
-- 
+- Function `getDisc()` receives the total fees and number of people registering, then calculates and returns the total fees after discount. A 10% discount is given if the number of people registering for the course is more than 50.
+- Function `main()` prompts the user to input the course code and number of people. For every course, the number of people should be at least 30.
+- Calculate the total fees using function `calcFee()`.
+- Then calculate the fees after discount using function `getDisc()`.
+- Finally, calculate the fees for each person needs to pay if a discount is given.
+- Receipt format:
+  1. Customer name.
+  2. Each course name, number of participants, fees, and discount. 
+  3. Final totals (subtotal, tax, grand total, amount per person).
