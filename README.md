@@ -5,7 +5,7 @@ This is a course in my foundation year at UTM where we learn the basics of C++ p
 - write a C++ program
 based on the study case that has been given
 
-(This is a group project by the way)
+(This is a group project)
 
 ## Study Case Question
 IT UTM Consultancy offers various ICT courses and has recently expanded its services to include promotional packages, multi-course registration, and detailed receipts. The company wants to develop a more advanced system to handle complex bookings and pricing. Below are some of the ICT courses available and their prices.
