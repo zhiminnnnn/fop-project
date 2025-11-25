@@ -1,3 +1,5 @@
+<div align="justify">
+
 # FSPT0024 Fundamentals of Programming - Final Project
 This is a course in my foundation year at UTM where we learn the basics of C++ programming language. To test our knowledge and whether we know how to apply our knowledge about C++ programming language or problem-solving techniques in general, we are given a study case question and required to:
 - analyze the input, process, and output
@@ -31,3 +33,4 @@ IT UTM Consultancy offers various ICT courses and has recently expanded its serv
   1. Customer name.
   2. Each course name, number of participants, fees, and discount. 
   3. Final totals (subtotal, tax, grand total, amount per person).
+</div>
