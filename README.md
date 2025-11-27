@@ -33,4 +33,49 @@ IT UTM Consultancy offers various ICT courses and has recently expanded its serv
   1. Customer name.
   2. Each course name, number of participants, fees, and discount. 
   3. Final totals (subtotal, tax, grand total, amount per person).
+ 
+  Example output:
+  ```
+  Enter customer name: Nordalela
+
+  Available Courses:
+  1. AutoCAD Basic         - RM 1470.00
+  2. Microsoft Excel Basic - RM  525.00
+  3. Android Studio        - RM 1570.00
+  4. E-Invoice Strategic   - RM  850.00
+  5. Analyzing Data        - RM 1890.00
+
+  How many courses do you want to register? 2
+
+  Enter course code #1: 1
+  Enter number of participants (min 30): 30
+
+  Enter course code #2: 4
+  Enter number of participants (min 30): 30
+  ```
+  Example receipt:
+  ```
+  ========= IT UTM CONSULTANCY - RECEIPT =========
+  Customer Name: Nordalela
+
+  Course: AutoCAD Basic
+  Participants: 30
+  Total Fee: RM 44100.00
+  Discount: RM 0.00
+  Fee After Discount: RM 44100.00
+
+  Course: E-Invoice Strategic
+  Participants: 30
+  Total Fee: RM 25500.00
+  Discount: RM 0.00
+  Fee After Discount: RM 25500.00
+
+  Subtotal: RM 69600.00
+  Tax (6%): RM 4176.00
+  Grand Total: RM 73776.00
+  Total Participants: 60
+  Amount per Person: RM 1229.60
+  ================================================
+  Thank you for registering!
+  ```
 </div>
