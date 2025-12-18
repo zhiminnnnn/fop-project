@@ -1,8 +1,6 @@
 <div align="justify">
 
 # Reflection
-After finishing this project, I feel proud of what we accomplished. Writing the code for the IT UTM Consultancy system was a big task, and I learned a lot.
-
 1. Putting Theory into Practice
 
    We used many programming concepts we learned in class. For instance, the `calcFee()` and `getDisc()` functions helped us organize the code neatly. Using arrays was challenging but necessary to store all the course information, participants, fees, and so on.
