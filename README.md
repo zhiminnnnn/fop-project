@@ -35,7 +35,7 @@ IT UTM Consultancy offers various ICT courses and has recently expanded its serv
   3. Final totals (subtotal, tax, grand total, amount per person).
  
   Example output:
-  ```
+  ```yaml
   Enter customer name: Nordalela
 
   Available Courses:
@@ -54,7 +54,7 @@ IT UTM Consultancy offers various ICT courses and has recently expanded its serv
   Enter number of participants (min 30): 30
   ```
   Example receipt:
-  ```
+  ```yaml
   ========= IT UTM CONSULTANCY - RECEIPT =========
   Customer Name: Nordalela
 
@@ -78,5 +78,5 @@ IT UTM Consultancy offers various ICT courses and has recently expanded its serv
   ================================================
   Thank you for registering!
   ```
-  [Click here](https://github.com/zhiminnnnn/fop-project/blob/main/fop%20project%20code.cpp) to download the code
+  [Click here](https://github.com/zhiminnnnn/fop-project/blob/main/fop%20project%20code.cpp) to download the .cpp file.
 </div>
